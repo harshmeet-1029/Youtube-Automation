@@ -1,1 +1,22 @@
 # Youtube-Automation
+
+IN THIS PROJECT IT WILL INCREASE THE VIEWS OF YOUTUBE 
+#PREREQUSTIES
+INSTALLATION OF SELENIUM
+```
+pip3 install selenium
+```
+IT IS USING THE API OF WINDSCRIBE 
+https://windscribe.com/signup
+YOU HAVE TO CREATE ACCOUNT THERE AND THEN YOU HAVE TO USE LINUX COMMANDS 
+SETTING UP WINDSCRIBE
+```
+sudo ./setup.sh
+```
+FOR LOGIN INTO API
+```
+sudo ./login-setup.sh
+```
+RUN PYTHON SCRIPTS
+```
+python3 you.py
